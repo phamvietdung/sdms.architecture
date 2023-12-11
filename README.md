@@ -1,2 +1,7 @@
-# sdms.architecture
-Mô tả và giải thích dự án sdms một các dễ hiểu nhất
+# SDMS Architecture overview
+
+> Tài liệu mô tả về dự án sdms cùng giải thích chi tiết
+
+## Layer overview
+
+[![over view](./drawio/![/../../images/layer-overview.png])]
