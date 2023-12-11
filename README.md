@@ -4,6 +4,6 @@
 
 ## Layer overview
 
-[./../../images/layer-overview.png]
+Tổng quan về layer cũng như các cấu phần cơ bản của hệ thống
 
-![Alt text](/images/layer-overview.png?raw=true "Optional Title")
+![Layer Overview](/images/layer-overview.png?raw=false "Layer")
