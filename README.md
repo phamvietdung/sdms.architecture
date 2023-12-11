@@ -4,4 +4,4 @@
 
 ## Layer overview
 
-[![over view](./../../images/layer-overview.png)]
+[./../../images/layer-overview.png]
