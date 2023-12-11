@@ -4,4 +4,4 @@
 
 ## Layer overview
 
-[![over view](./drawio/![/../../images/layer-overview.png])]
+[![over view](./../../images/layer-overview.png)]
