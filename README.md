@@ -5,3 +5,5 @@
 ## Layer overview
 
 [./../../images/layer-overview.png]
+
+![Alt text](/images/layer-overview.png?raw=true "Optional Title")
